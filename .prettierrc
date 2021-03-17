@@ -1,0 +1,21 @@
+{
+  "overrides": [
+    {
+      "files": "*.vue",
+      "options": {
+        "tabWidth": 4,
+        "singleQuote": true,
+        "bracketSpacing": true,
+        "vueIndentScriptAndStyle": false
+      }
+    },
+    {
+      "files": ["*.html", "*.js"],
+      "options": {
+        "tabWidth": 4,
+        "singleQuote": true,
+        "bracketSpacing": true
+      }
+    }
+  ]
+}
